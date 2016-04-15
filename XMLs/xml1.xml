@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE copyright [
+<!ELEMENT copyright (#PCDATA)>
+<!ENTITY c SYSTEM "http://www.xmlwriter.net/copyright.xml">
+]>
+<employee 	xmlns='uriNamespace0'
+			xmlns:A1='uriNamespace1'
+			xmlns:A2='uriNamespace2' >
+	<!-- Azucar -->
+	<id  Ccy="EUR">1</id>
+	<name>Beth</name>
+	<title><![CDATA[if (a < b && a < 0)]]></title>
+</employee>

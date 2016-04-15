@@ -1,4 +1,4 @@
-package es.cjrg.random;
+package es.cjrg.math;
 
 import java.util.Random;
 

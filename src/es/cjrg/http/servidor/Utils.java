@@ -1,4 +1,4 @@
-package es.cjrg.http.servidor.ejemplo1;
+package es.cjrg.http.servidor;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;

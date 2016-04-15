@@ -1,4 +1,4 @@
-package es.cjrg.http.servidor.ejemplo1;
+package es.cjrg.http.servidor;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
